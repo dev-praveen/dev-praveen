@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen</h1>
-<h3 align="center">Backend(Java, SQL) developer from India.</h3>
+<h3 align="center">Senior Java Developer with 8+ years of experience specializing in Java, SQL, Spring Boot, Microservices, and Azure Cloud.</h3>
 
 <p align="left"> <a href="https://twitter.com/iam_praveensana" target="blank"><img src="https://img.shields.io/twitter/follow/iam_praveensana?logo=twitter&style=for-the-badge" alt="iam_praveensana" /></a> </p>
 
